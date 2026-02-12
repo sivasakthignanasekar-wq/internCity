@@ -7,14 +7,20 @@ Key Features
 
  --> Register and manage teams
 
- 
- --> Register and manage venues
+  --> Register and manage venues
+  
  --> Schedule matches with validation
+ 
  --> Prevent venue double-booking
+ 
  --> Record match results and determine winner
+ 
  --> Restrict deletion if active fixtures exist
+ 
  --> Query matches by team, venue, or date
+ 
  --> Use JDBC transaction management (commit/rollback)
+ 
  --> Custom exception handling for business rules
 
 Technologies Used
@@ -26,7 +32,7 @@ SQL
 Exception Handling
 Layered Architecture
 
-<img width="637" height="177" alt="image" src="https://github.com/user-attachments/assets/d2377841-41c3-4898-bf27-20ef29a51fba" />4
+<img width="637" height="177" alt="image" src="https://github.com/user-attachments/assets/d2377841-41c3-4898-bf27-20ef29a51fba" />
 
 
 <img width="668" height="338" alt="image" src="https://github.com/user-attachments/assets/aec1841a-926b-46c2-8f78-966b623d0d19" />
