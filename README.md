@@ -6,6 +6,8 @@ The application follows a layered architecture (App, Service, DAO, Bean, Utility
 Key Features
 
  --> Register and manage teams
+
+ 
  --> Register and manage venues
  --> Schedule matches with validation
  --> Prevent venue double-booking
